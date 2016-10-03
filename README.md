@@ -1,6 +1,6 @@
 # Ultrasonic-HC-SR04-Raspberry
 (for Beginners and young children)
-A easy Pyhton script to get the distance using the HC-SR04 sensor.
+A easy Pyhton script to get the distance using the HC-SR04 sensor between the sensor and an object.
 
 HC-SR04
 Basically this sensor emit high frequency ultrasonic sound, and receive the ultrasonic noise reflected. Later the sensor control calculate he time difference between the signal being transmitted and received, with a math formule the user can get the distance between the sensor and the object.   
