@@ -21,6 +21,6 @@ Basically this sensor emit high frequency ultrasonic sound, and receive the ultr
 
 2- Steps in the Raspberry Pi
 - sudo apt-get install python or python3
-- sudo nando name_of_your_Python_script.py
+- sudo nano name_of_your_Python_script.py
 - Copy the code and save the changes
 - python name_of_your_Python_script.py
