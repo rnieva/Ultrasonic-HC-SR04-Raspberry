@@ -23,3 +23,11 @@ Raspberry Pi Models A and B:
 - sudo nano name_of_your_Python_script.py
 - Copy the code and save the changes
 - python name_of_your_Python_script.py
+
+### Added a LED
+The script distance_HCSR04sensorV2.py has a "IF Statement". If the distance is less than a specific value, in this case 10, the LED will switch on.
+- LED to GPIO 15 (pin 10), and a 1k resistor between GND and the shorter leg (negative or 0v) of LED.
+
+*LED (Light Emitting Diodes), LEDs only pass electricity one way, so we need to make sure we put them in the right way round. They have a long leg and a slightly shorter leg. The long leg goes to the plus side and the shorter leg to the negative side
+
+![alt tag](https://raw.github.com/rnieva/Ultrasonic-HC-SR04-Raspberry/master/scheme.png)
