@@ -14,7 +14,7 @@ Basically this sensor emit high frequency ultrasonic sound, and receive the ultr
 *Important: don´t mistake the GPIO pin numbers with physical numbers in the Raspberry
 
 Raspberry Pi Models A and B:
-[GPIO pins](https://www.raspberrypi.org/documentation/usage/gpio/images/a-and-b-gpio-numbers.png) - [Physical pin numbers](https://www.raspberrypi.org/documentation/usage/gpio/images/a-and-b-physical-pin-numbers.png)
+[GPIO pins](https://www.raspberrypi.org/documentation/usage/gpio/images/a-and-b-gpio-numbers.png) - [Physical pin numbers](https://www.raspberrypi.org/documentation/usage/gpio/images/a-and-b-physical-pin-numbers.png) -  [More info in Raspberry Pi Foundation] (https://www.raspberrypi.org/documentation/usage/gpio/)
 
 ![alt tag](https://raw.github.com/rnieva/Ultrasonic-HC-SR04-Raspberry/master/imgRaspberryAndSensor.JPG)
 
